@@ -1,6 +1,6 @@
 # lab
 Welcome to the official public repository of Encrova Holding Limited. We share our tech vision, development structure, and core components used to build scalable, reliable, and tailored digital platforms. This space is designed for collaboration, learning, and showcasing how we transform ideas into tangible solutions.
-
+![Posts](https://github.com/user-attachments/assets/c3b359bc-637d-49fd-bdd3-48414426c2a0)
 ## 🧭 About Encrova
 
 **Encrova** is a global technology holding focused on building high-impact digital solutions for business ecosystems in logistics, trade, traceability, and smart communication.
