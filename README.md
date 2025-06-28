@@ -3,7 +3,7 @@ Welcome to the official public repository of Encrova Holding Limited. We share o
 
 ![Posts](https://github.com/user-attachments/assets/c3b359bc-637d-49fd-bdd3-48414426c2a0)
 
-## 🧭 About Encrova
+## About Encrova
 
 **Encrova** is a global technology holding focused on building high-impact digital solutions for business ecosystems in logistics, trade, traceability, and smart communication.
 
@@ -13,7 +13,7 @@ We combine strategy, software, and scalable infrastructure to create platforms f
 
 ---
 
-## 📌 What You'll Find Here
+## What You'll Find Here
 
 This repository will grow over time.  
 We’ll be introducing:
@@ -26,7 +26,7 @@ We’ll be introducing:
 
 ---
 
-## 🧰 Tech Stack Overview
+## Tech Stack Overview
 
 We work with modern, proven technologies:
 
@@ -39,7 +39,7 @@ We work with modern, proven technologies:
 
 ---
 
-## 🤝 How to Collaborate
+## How to Collaborate
 
 We’re open to building together. If you want to contribute or explore potential collaboration:
 
