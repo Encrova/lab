@@ -11,20 +11,16 @@ We combine strategy, software, and scalable infrastructure to create platforms f
 
 > _Technology made to scale. Code made to connect._
 
----
-
 ## What You'll Find Here
 
 This repository will grow over time.  
 We’ll be introducing:
 
-- 📁 **Documentation** of how we build platforms  
-- 🛠️ **Code templates** and structure examples  
-- 🌍 **Tech stack** overview and modular tools  
-- 📚 **Guides** on our architectural principles  
-- 🤝 **Contribution info** for those who want to build with us  
-
----
+- **Documentation** of how we build platforms  
+- **Code templates** and structure examples  
+- **Tech stack** overview and modular tools  
+- **Guides** on our architectural principles  
+- **Contribution info** for those who want to build with us  
 
 ## Tech Stack Overview
 
@@ -37,8 +33,6 @@ We work with modern, proven technologies:
 - **Blockchain:** Solidity · Web3.js · FISCO BCOS  
 - **AI:** GPT APIs · Dialogflow · Langchain
 
----
-
 ## How to Collaborate
 
 We’re open to building together. If you want to contribute or explore potential collaboration:
@@ -47,9 +41,7 @@ We’re open to building together. If you want to contribute or explore potentia
 🌐 Visit [https://encrova.com](https://encrova.com)  
 🔗 See our [CONTRIBUTING.md](./CONTRIBUTING.md)
 
----
-
-## 📄 License
+## License
 
 This repository is open for educational and collaborative purposes.  
-Code samples may include open-source licenses (MIT, Apache 2.0) depending on the context.
+Code samples may include open-source licenses (such as MIT and Apache 2.0) depending on the context.
